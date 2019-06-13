@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d95969c0-1bd5-4110-9d1f-a25ae62ccfe6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,62 +16,54 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="131">
-                  <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
-                  <folding>
-                    <element signature="e#2704#2705#0" expanded="true" />
-                    <element signature="e#2756#2757#0" expanded="true" />
-                    <element signature="e#2775#2776#0" expanded="true" />
-                    <element signature="e#2800#2801#0" expanded="true" />
-                    <element signature="e#3379#3380#0" expanded="true" />
-                    <element signature="e#3406#3407#0" expanded="true" />
-                    <element signature="e#3863#3864#0" expanded="true" />
-                    <element signature="e#3890#3891#0" expanded="true" />
-                    <element signature="e#4059#4060#0" expanded="true" />
-                    <element signature="e#4086#4087#0" expanded="true" />
-                    <element signature="e#4255#4256#0" expanded="true" />
-                    <element signature="e#4282#4283#0" expanded="true" />
-                    <element signature="e#4399#4400#0" expanded="true" />
-                    <element signature="e#4484#4485#0" expanded="true" />
-                    <element signature="e#4601#4602#0" expanded="true" />
-                    <element signature="e#4686#4687#0" expanded="true" />
-                    <element signature="e#4799#4800#0" expanded="true" />
-                    <element signature="e#4850#4851#0" expanded="true" />
-                    <element signature="e#4971#4972#0" expanded="true" />
-                    <element signature="e#5012#5013#0" expanded="true" />
-                    <element signature="e#5140#5141#0" expanded="true" />
-                    <element signature="e#5191#5192#0" expanded="true" />
-                    <element signature="e#5304#5305#0" expanded="true" />
-                    <element signature="e#5340#5341#0" expanded="true" />
-                    <element signature="e#5449#5450#0" expanded="true" />
-                    <element signature="e#5490#5491#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/SixMinuteInterview/PhoneNumberTests.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" column="109" lean-forward="true" selection-start-line="16" selection-start-column="109" selection-end-line="16" selection-end-column="109" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SixMinuteInterview/PhoneNumberTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="81" lean-forward="true" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
+              <folding>
+                <element signature="e#2598#2599#0" expanded="true" />
+                <element signature="e#2625#2626#0" expanded="true" />
+                <element signature="e#2775#2776#0" expanded="true" />
+                <element signature="e#2800#2801#0" expanded="true" />
+                <element signature="e#3379#3380#0" expanded="true" />
+                <element signature="e#3406#3407#0" expanded="true" />
+                <element signature="e#3863#3864#0" expanded="true" />
+                <element signature="e#3890#3891#0" expanded="true" />
+                <element signature="e#4059#4060#0" expanded="true" />
+                <element signature="e#4086#4087#0" expanded="true" />
+                <element signature="e#4255#4256#0" expanded="true" />
+                <element signature="e#4282#4283#0" expanded="true" />
+                <element signature="e#4399#4400#0" expanded="true" />
+                <element signature="e#4484#4485#0" expanded="true" />
+                <element signature="e#4601#4602#0" expanded="true" />
+                <element signature="e#4686#4687#0" expanded="true" />
+                <element signature="e#4799#4800#0" expanded="true" />
+                <element signature="e#4850#4851#0" expanded="true" />
+                <element signature="e#4971#4972#0" expanded="true" />
+                <element signature="e#5012#5013#0" expanded="true" />
+                <element signature="e#5140#5141#0" expanded="true" />
+                <element signature="e#5191#5192#0" expanded="true" />
+                <element signature="e#5304#5305#0" expanded="true" />
+                <element signature="e#5340#5341#0" expanded="true" />
+                <element signature="e#5449#5450#0" expanded="true" />
+                <element signature="e#5490#5491#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -104,10 +95,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="80" />
-    <option name="height" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -118,7 +109,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560389993045" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560460086276" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
@@ -168,13 +159,19 @@
       <workItem from="1555961308891" duration="1035000" />
       <workItem from="1556036493971" duration="404000" />
       <workItem from="1557370567796" duration="1218000" />
+      <workItem from="1560389957143" duration="209000" />
     </task>
+    <task id="LOCAL-00001" summary="stuff">
+      <created>1560390030592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560390030592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PhoneNumberTests - 2019.04.22 at 13h 07m 26s.xml">
-      <configuration name="PhoneNumberTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PhoneNumberTests - 2019.04.22 at 13h 07m 57s.xml">
       <configuration name="PhoneNumberTests" configurationId="JUnit" />
     </history-entry>
@@ -202,12 +199,15 @@
     <history-entry file="PhoneNumberTests_test_1 - 2019.05.08 at 20h 12m 27s.xml">
       <configuration name="PhoneNumberTests.test_1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PhoneNumberTests - 2019.06.12 at 18h 41m 01s.xml">
+      <configuration name="PhoneNumberTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4587000" />
+    <option name="totallyTimeSpent" value="4796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="80" height="22" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
@@ -219,7 +219,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3106383" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3096862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,26 +247,20 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SixMinuteInterview/PhoneNumberTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="109" lean-forward="true" selection-start-line="16" selection-start-column="109" selection-end-line="16" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+        <state relative-caret-position="345">
+          <caret line="23" column="81" lean-forward="true" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
           <folding>
-            <element signature="e#2704#2705#0" expanded="true" />
-            <element signature="e#2756#2757#0" expanded="true" />
+            <element signature="e#2598#2599#0" expanded="true" />
+            <element signature="e#2625#2626#0" expanded="true" />
             <element signature="e#2775#2776#0" expanded="true" />
             <element signature="e#2800#2801#0" expanded="true" />
             <element signature="e#3379#3380#0" expanded="true" />
@@ -292,6 +286,13 @@
             <element signature="e#5449#5450#0" expanded="true" />
             <element signature="e#5490#5491#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SixMinuteInterview/PhoneNumberTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
