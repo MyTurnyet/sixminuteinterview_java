@@ -22,7 +22,7 @@ public class PhoneNumberTests extends TestCase {
 
         String originalNumber = "+1(858)775-2868x123";
         String strippedNumber = "+18587752868x123";
-        String northAmericanNumber = null;
+        String northAmericanNumber = "(858)775-2868";
         String internationalNumber = "+1.858.775.2868x123";
         PhoneNumber ph = new PhoneNumber(originalNumber);
 
