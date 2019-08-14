@@ -107,6 +107,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560460086276" />
@@ -127,8 +128,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PhoneNumberTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SixMinuteInterview" />
+    <configuration name="test in SixMinuteInterview" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sixminuteinterview_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SixMinuteInterview.*" />
@@ -136,15 +137,18 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SixMinuteInterview" />
-      <option name="MAIN_CLASS_NAME" value="SixMinuteInterview.PhoneNumberTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="PARAMETERS" value="" />
+      <dir value="$PROJECT_DIR$/src/test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PhoneNumberTests" />
+        <item itemvalue="JUnit.test in SixMinuteInterview" />
       </list>
     </recent_temporary>
   </component>
