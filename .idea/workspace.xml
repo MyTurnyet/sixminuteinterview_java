@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d95969c0-1bd5-4110-9d1f-a25ae62ccfe6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,56 +13,6 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SixMinuteInterview/PhoneNumberTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="81" lean-forward="true" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
-              <folding>
-                <element signature="e#2598#2599#0" expanded="true" />
-                <element signature="e#2625#2626#0" expanded="true" />
-                <element signature="e#2775#2776#0" expanded="true" />
-                <element signature="e#2800#2801#0" expanded="true" />
-                <element signature="e#3379#3380#0" expanded="true" />
-                <element signature="e#3406#3407#0" expanded="true" />
-                <element signature="e#3863#3864#0" expanded="true" />
-                <element signature="e#3890#3891#0" expanded="true" />
-                <element signature="e#4059#4060#0" expanded="true" />
-                <element signature="e#4086#4087#0" expanded="true" />
-                <element signature="e#4255#4256#0" expanded="true" />
-                <element signature="e#4282#4283#0" expanded="true" />
-                <element signature="e#4399#4400#0" expanded="true" />
-                <element signature="e#4484#4485#0" expanded="true" />
-                <element signature="e#4601#4602#0" expanded="true" />
-                <element signature="e#4686#4687#0" expanded="true" />
-                <element signature="e#4799#4800#0" expanded="true" />
-                <element signature="e#4850#4851#0" expanded="true" />
-                <element signature="e#4971#4972#0" expanded="true" />
-                <element signature="e#5012#5013#0" expanded="true" />
-                <element signature="e#5140#5141#0" expanded="true" />
-                <element signature="e#5191#5192#0" expanded="true" />
-                <element signature="e#5304#5305#0" expanded="true" />
-                <element signature="e#5340#5341#0" expanded="true" />
-                <element signature="e#5449#5450#0" expanded="true" />
-                <element signature="e#5490#5491#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,13 +29,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/SixMinuteInterview/PhoneNumberTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java" />
-      </list>
-    </option>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="IlgjhcAJ" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -95,17 +39,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="825" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
-  </component>
+  <component name="ProjectId" id="1PQltnd7MMt6FkcrU8Rd5Q9O6zE" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -127,7 +61,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PhoneNumberTests">
+    <configuration name="PhoneNumberTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sixminuteinterview_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SixMinuteInterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SixMinuteInterview" />
+      <option name="MAIN_CLASS_NAME" value="SixMinuteInterview.PhoneNumberTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test in SixMinuteInterview" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sixminuteinterview_java" />
       <extension name="coverage">
@@ -148,9 +97,14 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PhoneNumberTests" />
         <item itemvalue="JUnit.test in SixMinuteInterview" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -164,6 +118,8 @@
       <workItem from="1556036493971" duration="404000" />
       <workItem from="1557370567796" duration="1218000" />
       <workItem from="1560389957143" duration="209000" />
+      <workItem from="1565814421120" duration="989000" />
+      <workItem from="1565815441874" duration="156000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <created>1560390030592</created>
@@ -172,133 +128,34 @@
       <option name="project" value="LOCAL" />
       <updated>1560390030592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stuff">
+      <created>1565805987240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565805987240</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="PhoneNumberTests - 2019.04.22 at 13h 07m 57s.xml">
-      <configuration name="PhoneNumberTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests - 2019.05.08 at 19h 56m 44s.xml">
-      <configuration name="PhoneNumberTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests - 2019.05.08 at 20h 07m 18s.xml">
-      <configuration name="PhoneNumberTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests - 2019.05.08 at 20h 08m 29s.xml">
-      <configuration name="PhoneNumberTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests_test_1 - 2019.05.08 at 20h 08m 47s.xml">
-      <configuration name="PhoneNumberTests.test_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests_test_1 - 2019.05.08 at 20h 10m 30s.xml">
-      <configuration name="PhoneNumberTests.test_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests_test_1 - 2019.05.08 at 20h 10m 46s.xml">
-      <configuration name="PhoneNumberTests.test_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests_test_1 - 2019.05.08 at 20h 12m 12s.xml">
-      <configuration name="PhoneNumberTests.test_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests_test_1 - 2019.05.08 at 20h 12m 27s.xml">
-      <configuration name="PhoneNumberTests.test_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PhoneNumberTests - 2019.06.12 at 18h 41m 01s.xml">
-      <configuration name="PhoneNumberTests" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4796000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3096862" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Problems" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Docker" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32907802" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Cargo" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stuff" />
     <option name="LAST_COMMIT_MESSAGE" value="stuff" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SixMinuteInterview/PhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="81" lean-forward="true" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
-          <folding>
-            <element signature="e#2598#2599#0" expanded="true" />
-            <element signature="e#2625#2626#0" expanded="true" />
-            <element signature="e#2775#2776#0" expanded="true" />
-            <element signature="e#2800#2801#0" expanded="true" />
-            <element signature="e#3379#3380#0" expanded="true" />
-            <element signature="e#3406#3407#0" expanded="true" />
-            <element signature="e#3863#3864#0" expanded="true" />
-            <element signature="e#3890#3891#0" expanded="true" />
-            <element signature="e#4059#4060#0" expanded="true" />
-            <element signature="e#4086#4087#0" expanded="true" />
-            <element signature="e#4255#4256#0" expanded="true" />
-            <element signature="e#4282#4283#0" expanded="true" />
-            <element signature="e#4399#4400#0" expanded="true" />
-            <element signature="e#4484#4485#0" expanded="true" />
-            <element signature="e#4601#4602#0" expanded="true" />
-            <element signature="e#4686#4687#0" expanded="true" />
-            <element signature="e#4799#4800#0" expanded="true" />
-            <element signature="e#4850#4851#0" expanded="true" />
-            <element signature="e#4971#4972#0" expanded="true" />
-            <element signature="e#5012#5013#0" expanded="true" />
-            <element signature="e#5140#5141#0" expanded="true" />
-            <element signature="e#5191#5192#0" expanded="true" />
-            <element signature="e#5304#5305#0" expanded="true" />
-            <element signature="e#5340#5341#0" expanded="true" />
-            <element signature="e#5449#5450#0" expanded="true" />
-            <element signature="e#5490#5491#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SixMinuteInterview/PhoneNumberTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
