@@ -15,10 +15,10 @@ public class PhoneNumberTests {
         String internationalNumber = "+1.858.775.2868";
         PhoneNumber ph = new PhoneNumber(originalNumber);
 
-        assertEquals("[" + originalNumber + "]Original Number", originalNumber, ph.OriginalNumber());
-        assertEquals("[" + strippedNumber + "]Stripped Number", strippedNumber, ph.StrippedNumber());
-        assertEquals("[" + northAmericanNumber + "]North American Number", northAmericanNumber, ph.NorthAmericanNumber());
-        assertEquals("[" + internationalNumber + "]International Number", internationalNumber, ph.InternationalNumber());
+        assertEquals( originalNumber, ph.OriginalNumber(),"[" + originalNumber + "]Original Number");
+        assertEquals( strippedNumber, ph.StrippedNumber(),"[" + strippedNumber + "]Stripped Number");
+        assertEquals( northAmericanNumber, ph.NorthAmericanNumber(),"[" + northAmericanNumber + "]North American Number");
+        assertEquals( internationalNumber, ph.InternationalNumber(),"[" + internationalNumber + "]International Number");
     }
 
     @Test
@@ -30,10 +30,10 @@ public class PhoneNumberTests {
         String internationalNumber = "+1.858.775.2868x123";
         PhoneNumber ph = new PhoneNumber(originalNumber);
 
-        assertEquals("[" + originalNumber + "]Original Number", originalNumber, ph.OriginalNumber());
-        assertEquals("[" + strippedNumber + "]Stripped Number", strippedNumber, ph.StrippedNumber());
-        assertEquals("[" + northAmericanNumber + "]North American Number", northAmericanNumber, ph.NorthAmericanNumber());
-        assertEquals("[" + internationalNumber + "]International Number", internationalNumber, ph.InternationalNumber());
+        assertEquals( originalNumber, ph.OriginalNumber(),"[" + originalNumber + "]Original Number");
+        assertEquals( strippedNumber, ph.StrippedNumber(),"[" + strippedNumber + "]Stripped Number");
+        assertEquals( northAmericanNumber, ph.NorthAmericanNumber(),"[" + northAmericanNumber + "]North American Number");
+        assertEquals( internationalNumber, ph.InternationalNumber(),"[" + internationalNumber + "]International Number");
     }
 
     @Test
@@ -45,10 +45,10 @@ public class PhoneNumberTests {
         String internationalNumber = "+598.123.456.7x858";
         PhoneNumber ph = new PhoneNumber(originalNumber);
 
-        assertEquals("[" + originalNumber + "]Original Number", originalNumber, ph.OriginalNumber());
-        assertEquals("[" + strippedNumber + "]Stripped Number", strippedNumber, ph.StrippedNumber());
-        assertEquals("[" + northAmericanNumber + "]North American Number", northAmericanNumber, ph.NorthAmericanNumber());
-        assertEquals("[" + internationalNumber + "]International Number", internationalNumber, ph.InternationalNumber());
+        assertEquals( originalNumber, ph.OriginalNumber(),"[" + originalNumber + "]Original Number");
+        assertEquals( strippedNumber, ph.StrippedNumber(),"[" + strippedNumber + "]Stripped Number");
+        assertEquals( northAmericanNumber, ph.NorthAmericanNumber(),"[" + northAmericanNumber + "]North American Number");
+        assertEquals( internationalNumber, ph.InternationalNumber(),"[" + internationalNumber + "]International Number");
     }
 
     @Test
@@ -60,10 +60,10 @@ public class PhoneNumberTests {
         String internationalNumber = "+27 1234 5678 ext 4";
         PhoneNumber ph = new PhoneNumber(originalNumber);
 
-        assertEquals("[" + originalNumber + "]Original Number", originalNumber, ph.OriginalNumber());
-        assertEquals("[" + strippedNumber + "]Stripped Number", strippedNumber, ph.StrippedNumber());
-        assertEquals("[" + northAmericanNumber + "]North American Number", northAmericanNumber, ph.NorthAmericanNumber());
-        assertEquals("[" + internationalNumber + "]International Number", internationalNumber, ph.InternationalNumber());
+        assertEquals( originalNumber, ph.OriginalNumber(),"[" + originalNumber + "]Original Number");
+        assertEquals( strippedNumber, ph.StrippedNumber(),"[" + strippedNumber + "]Stripped Number");
+        assertEquals( northAmericanNumber, ph.NorthAmericanNumber(),"[" + northAmericanNumber + "]North American Number");
+        assertEquals( internationalNumber, ph.InternationalNumber(),"[" + internationalNumber + "]International Number");
     }
 
     @Test
@@ -75,9 +75,9 @@ public class PhoneNumberTests {
         String internationalNumber = "+1.858.775.2868";
         PhoneNumber ph = new PhoneNumber(originalNumber);
 
-        assertEquals("[" + originalNumber + "]Original Number", originalNumber, ph.OriginalNumber());
-        assertEquals("[" + strippedNumber + "]Stripped Number", strippedNumber, ph.StrippedNumber());
-        assertEquals("[" + northAmericanNumber + "]North American Number", northAmericanNumber, ph.NorthAmericanNumber());
-        assertEquals("[" + internationalNumber + "]International Number", internationalNumber, ph.InternationalNumber());
+        assertEquals( originalNumber, ph.OriginalNumber(),"[" + originalNumber + "]Original Number");
+        assertEquals( strippedNumber, ph.StrippedNumber(),"[" + strippedNumber + "]Stripped Number");
+        assertEquals( northAmericanNumber, ph.NorthAmericanNumber(),"[" + northAmericanNumber + "]North American Number");
+        assertEquals( internationalNumber, ph.InternationalNumber(),"[" + internationalNumber + "]International Number");
     }
 }
